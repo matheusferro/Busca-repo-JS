@@ -8,7 +8,7 @@
     "@babel/core": "^7.15.0",
     "@babel/plugin-transform-async-to-generator": "^7.7.4",
     "@babel/polyfill": "^7.12.1",
-    "@babel/preset-env": "^7.15.0",
+    "@babel/preset-env": "^7.15.4",
     "babel-loader": "^8.2.2",
     "webpack": "^5.51.2",
     "webpack-cli": "^4.8.0",
