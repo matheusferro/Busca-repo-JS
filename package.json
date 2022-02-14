@@ -19,6 +19,6 @@
     "build": "webpack --mode=production"
   },
   "dependencies": {
-    "axios": "^0.21.4"
+    "axios": "^0.26.0"
   }
 }
